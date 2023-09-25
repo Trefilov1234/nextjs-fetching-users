@@ -4,6 +4,7 @@ const
     pages=[
         {href:'/',title: 'Home'},
         {href:'/table',title: 'Table'},
+        {href:'/calendar',title: 'Calendar'},
     ];
 export default function Header(){
     return <header className={style.header}>
