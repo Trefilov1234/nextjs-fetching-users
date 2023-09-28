@@ -1,4 +1,4 @@
-import TableFetch from "../components/TableFetch";
+import TableFetch from "../components/users-fetching/TableFetch";
 
 export default function TablePage(){
     return <TableFetch/>

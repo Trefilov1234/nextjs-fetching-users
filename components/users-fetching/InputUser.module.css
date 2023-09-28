@@ -1,0 +1,4 @@
+.main  { display: table;      }
+.input    { display: table-row;  }
+.label { display: table-cell; }
+.field { display: table-cell; }

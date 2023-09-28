@@ -1,0 +1,23 @@
+.table th{
+  border: 1px solid #333;
+}
+.table td{
+    border: 1px solid #333;
+}
+.table{
+    border: 1px solid #333;
+    width: 100%;
+}
+.table tbody tr:hover {
+  background-color: aquamarine;
+  cursor: pointer;
+}
+.selected {
+  background-color: rgb(208, 228, 161);
+}
+.selectedCol{
+  background-color: rgb(185, 142, 185);
+}
+.table thead th:hover{
+  background-color: rgb(160, 218, 160);
+}
